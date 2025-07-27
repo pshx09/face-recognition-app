@@ -22,7 +22,7 @@
         <!-- Cloudinary API Key -->
         <meta-data
             android:name="CLOUDINARY_URL"
-            android:value="cloudinary://394176383539522:FeTpR1vWXzb2noa2hzqsNxYFWCM@dfys2b3e7" />
+            android:value="cloudinary://CLOUDINARY API" />
 
         <!-- Google Sign-In API Key -->
         <meta-data
